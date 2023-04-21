@@ -34,9 +34,9 @@ function App() {
 
         <main className='flex flex-col space-y-4'>
           <AboutMeSection />
+          <Project project={projects.doccreate} />
           <Project project={projects.mirror} />
           <Project project={projects.cdtool} />
-          <Project project={projects.doccreate} />
         </main>
 
         <Footer />
