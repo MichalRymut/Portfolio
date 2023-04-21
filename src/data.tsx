@@ -182,7 +182,7 @@ export const projects: TProjects = {
   doccreate: {
     name: 'Documentation Managment System',
     description:
-      'The Documentation Management System consisted of several different rules, applications, and objects that allowed for the management of the entire project, from the creation of the first parts, the creation of assemblies, the building of a library of standardized parts, the assignment of appropriate iProperties to parts, the assignment of appropriate names for elements according to a imposed scheme, the assignment of physical attributes, the automatic generation of documentation in the appropriate extensions and folder layouts. The most complex element of this system was the module "Create 4 View Drawing Of Model" which generated drawings and 2D files from 3D models.',
+      'The Documentation Management System consists of several different rules, applications, and objects that allow for the management of the entire project, from the creation of the first parts, the creation of assemblies, the building of a library of standardized parts, the assignment of appropriate iProperties to parts, the assignment of appropriate names for elements according to a imposed scheme, the assignment of physical attributes, the automatic generation of documentation in the appropriate extensions and folder layouts. The most complex element of this system is the module "Create 4 View Drawing Of Model" which generates drawings and 2D files from 3D models.',
     header: 'Website to simulate logic gates systems',
     live: 'https://github.com/MichalRymut/Projects/tree/main/iLogic',
     technologies: [
