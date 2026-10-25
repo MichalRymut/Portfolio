@@ -15,10 +15,8 @@ const Footer = () => {
       <div className='relative box-border flex w-full flex-col overflow-hidden rounded-3xl bg-gradient-to-tr from-amber-100 to-cyan-200 p-10'>
         <h2 className='text-4xl font-semibold'>Want to work together?</h2>
         <p className='mt-4'>
-          Thank you for visiting my portfolio site! If you are interested in my
-          work and think I could be a good fit for your team, I would love to
-          hear from you. Please don't hesitate to reach out to me via email or
-          phone to discuss any opportunities you may have.
+          Dziękuję za odwiedzenie mojego portfolio! Jeśli zainteresowało cię moje doświadczenie lub projekty i uważasz, że mółbym być cenną częścią twojego zespołu,
+          to zapraszam do kontaktu, aby porozmawiać o możliwościach współpracy.
         </p>
         <div className='mt-auto flex'>
           <p className='mt-4'>
