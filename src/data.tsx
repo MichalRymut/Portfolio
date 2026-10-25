@@ -28,6 +28,26 @@ export type TTechnology = {
 }
 
 export const technologies: { [key: string]: TTechnology } = {
+  inventor: {
+  name: 'Autodesk Inventor',
+  url: 'https://www.autodesk.pl/products/inventor/overview',
+},
+  AutoCAD: {
+  name: 'Autodesk AutoCAD',
+  url: 'https://www.autodesk.pl/products/autocad/overview',
+},
+  solid: {
+  name: 'SolidWorks',
+  url: 'https://www.solidworks.com/',
+},
+   Vault: {
+  name: 'Autodesk Vault',
+  url: 'https://www.autodesk.com/products/vault/overview',
+},
+  iLogic: {
+  name: 'iLogic',
+  url: 'https://www.autodesk.com/autodesk-university/article/iLogic-Best-Practices-and-Fundamentals-for-Success',
+},
   Python: {
   name: 'Python',
   url: 'https://www.python.org/',
@@ -40,54 +60,14 @@ VisualBasic: {
   name: 'Visual Basic',
   url: 'https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/aa242122(v=vs.60)',
 },
-iLogic: {
-  name: 'iLogic',
-  url: 'https://www.autodesk.com/autodesk-university/article/iLogic-Best-Practices-and-Fundamentals-for-Success',
-},
-Cplusplus: {
-  name: 'C++',
-  url: 'https://cplusplus.com/',
-},
-React: {
-  name: 'React',
-  url: 'https://react.dev/',
-},
-typeScript: {
-    name: 'TypeScript',
-    url: 'https://www.typescriptlang.org/',
-  },
-JS: {
-    name: 'JavaScript',
-    url: 'https://www.javascript.com/',
-  },
-CSS: {
-    name: 'CSS',
-    url: 'https://pl.wikipedia.org/wiki/CSS',
-  },
-html: {
-    name: 'HTML',
-    url: 'https://pl.wikipedia.org/wiki/HTML',
-  },
 SAP: {
     name: 'SAP',
     url: 'https://www.sap.com/',
   },
-ABAP: {
-    name: 'ABAP',
-    url: 'https://pl.wikipedia.org/wiki/ABAP',
+IPO: {
+    name: 'IPOsystem',
+    url: 'https://www.iposystem.com/',
   },
-inventor: {
-  name: 'Autodesk Inventor',
-  url: 'https://www.autodesk.pl/products/inventor/overview',
-},
-solid: {
-  name: 'SolidWorks',
-  url: 'https://www.solidworks.com/',
-},
-AutoCAD: {
-  name: 'Autodesk AutoCAD',
-  url: 'https://www.autodesk.pl/products/autocad/overview',
-},
 hub: {
   name: 'GitHub',
   url: 'https://github.com/',
