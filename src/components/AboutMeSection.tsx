@@ -16,14 +16,14 @@ const AboutMeSection = () => {
     >
       <div className='relative box-border flex flex-col overflow-hidden rounded-3xl border bg-gradient-to-br from-pink-300 via-purple-300 to-indigo-400 p-10 md:w-2/3'>
         <h1 className='text-5xl font-semibold'>
-          Hello, I'm Michał, <br />
-          Software Developer
+          Cześć, nazywam się Michał, <br />
+          Jestem Inżynierem Mechaniki i Budowy Maszyn.
         </h1>
         <p className='mt-10'>
-          With skills in Python, SQL, Visual Basic, C++, CSS, and React, I have a passion for creating efficient and effective software solutions that 
-          solve complex problems. I enjoy collaborating with a team to design, develop and maintain software applications that meet the needs of end-users.
-          I am skilled in writing reliable, and scalable code, and I enjoy testing and debugging to ensure that the software works as intended. 
-          I am always looking for opportunities to learn and improve my skills and abilities.
+          Jako inżynier Mechaniki i Budowy Maszyn specjalizuję się w projektowaniu, konstruowaniu oraz optymalizacji rozwiązań technicznych. W swojej pracy używam takich narzędzi jak Autodesk Inventor, SolidWorks oraz AutoCAD, 
+          tworząc dokumentację techniczną i usprawniając procesy projektowe oraz produkcyjne. Doświadczenie zdobywałem najpierw jako konstruktor fasad a następnie jako konstuktor R&D w obszarze laserów femtosekundowych, 
+          gdzie rozwijałem umiejętności projektowania i wdrażania zaawansowanych rozwiązań technicznych. Obecnie pracuję jako technolog w Mennicy Polskiej, koncentrując się na doskonaleniu procesów produkcyjnych, ich efektywności 
+          oraz jakości. Cenię analityczne podejście do rozwiązywania problemów, precyzję i współpracę zespołową. Nieustannie rozwijam swoje kompetencje, poszukując nowych możliwości oraz wyzwań.
         </p>
         <div className='relative mt-10 flex flex-col space-y-4 md:mt-auto md:flex-row md:space-x-3 md:space-y-0'>
             <a
